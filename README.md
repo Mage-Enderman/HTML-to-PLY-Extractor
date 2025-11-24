@@ -15,7 +15,7 @@ While this is great for sharing, it makes it difficult to get your original .ply
 
 ## **How to use**
 
-1. **Download** the extract\_ply.html file from this repository (or view the [Live Demo](https://mage-enderman.github.io/HTML-to-PLY-Extractor/index.html)).  
+1. **Download** the index.html file from this repository (or view the [Live Demo](https://mage-enderman.github.io/HTML-to-PLY-Extractor/index.html)).  
 2. Open the file in any modern web browser (Chrome, Firefox, Edge, Safari).  
 3. **Drag and Drop** your exported viewer HTML file (e.g., scene.html) into the drop zone.  
 4. Wait for the extraction to complete.  
